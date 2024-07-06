@@ -34,6 +34,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.BLACK_OPAL_AXE);
                         pOutput.accept(ModItems.BLACK_OPAL_HOE);
 
+                        pOutput.accept(ModItems.BLACK_OPAL_PAXEL);
+
                     }).build());
 
     public static final Supplier<CreativeModeTab> BLACK_OPAL_BLOCKS_TAB =
