@@ -1,4 +1,4 @@
-// 1.21.1	2024-08-15T19:45:58.4538574	Item Models: mccourse
+// 1.21.1	2024-08-15T20:03:55.9195555	Item Models: mccourse
 e7ef334bfa102c4182125d1cdb301d3f9b907c71 assets/mccourse/models/item/black_opal.json
 0d5b2081db8f2f542cb2c52c213edd66470367e2 assets/mccourse/models/item/black_opal_axe.json
 bc352aa1f9d9411902cd133c7f2f8076986ce242 assets/mccourse/models/item/black_opal_boots.json
@@ -39,6 +39,7 @@ fb92a2affc7ebe5e04332ea5c0e4f19fca5a6c42 assets/mccourse/models/item/black_opal_
 68dc23f7191f58a4077ef375a5411dcf61731daa assets/mccourse/models/item/black_opal_helmet_quartz_trim.json
 025335c7c50f4a4880a794e8334d96e5d604c7e5 assets/mccourse/models/item/black_opal_helmet_redstone_trim.json
 efd51f12fc41e90e8dce3284887551dd4bdd3edf assets/mccourse/models/item/black_opal_hoe.json
+7355873a160b28d35603eb2cc8d71f411ebf7e35 assets/mccourse/models/item/black_opal_horse_armor.json
 53c38edb28ad165e42ec1b8f1c521a9cf4e3053d assets/mccourse/models/item/black_opal_leggings.json
 e673495adefb64ea99d46bab8f35f5066492468a assets/mccourse/models/item/black_opal_leggings_amethyst_trim.json
 d778b04f3dcfd760ec341c26a6ed84e87a3cdbf8 assets/mccourse/models/item/black_opal_leggings_copper_trim.json
