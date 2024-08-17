@@ -1,4 +1,4 @@
-// 1.21.1	2024-08-15T19:45:58.4528547	Recipes
+// 1.21.1	2024-08-17T13:48:07.3364646	Recipes
 4958be86dc8ededa248e438f8ec77757340342d3 data/mccourse/advancement/recipes/building_blocks/black_opal_slab.json
 3a3b666387507279530912650089b8a21a8b6df6 data/mccourse/advancement/recipes/building_blocks/black_opal_stairs.json
 0b26e27c06143f06f353dc4e8bcf0a7803b1892f data/mccourse/advancement/recipes/building_blocks/black_opal_wall.json
@@ -16,6 +16,7 @@ ec276166a6a8109079d20fd74461250351f64fd9 data/mccourse/advancement/recipes/misc/
 9c456bbfda4d64e334c2d15419322ccc973c31ad data/mccourse/advancement/recipes/misc/black_opal_from_smelting_black_opal_nether_ore.json
 133a1581864681809f251d27fe3ebb66381c3bcb data/mccourse/advancement/recipes/misc/black_opal_from_smelting_black_opal_ore.json
 a8de891d8865e71cb6d1e9f78131a9cee5a8f63f data/mccourse/advancement/recipes/misc/black_opal_from_smelting_raw_black_opal.json
+d3391c9fa573002953776b7f4f1d5dcf5a4ef4f4 data/mccourse/advancement/recipes/misc/kaupen.json
 d65c898403365972e18e6ffd6c763697b85ca178 data/mccourse/advancement/recipes/redstone/black_opal_button.json
 864ea5d92b7a87acb0b030326be869dce8063de4 data/mccourse/advancement/recipes/redstone/black_opal_door.json
 e79905072dc82f64d35d0d7fef4913674b859ed9 data/mccourse/advancement/recipes/redstone/black_opal_fence_gate.json
@@ -43,3 +44,4 @@ b55618e3a2a25d8654d62d057f90a4f457b5ba61 data/mccourse/recipe/black_opal_slab.js
 0ad75505948a975a45902eec7fd7d483667373a3 data/mccourse/recipe/black_opal_stairs.json
 74230f8dc22c723e4066a606aee6aef443004b37 data/mccourse/recipe/black_opal_trapdoor.json
 99943c4531f273a8f3eb6284bc5048450d10ad94 data/mccourse/recipe/black_opal_wall.json
+20ded92d79c4756f3854b8ddd36861f7ba9a217a data/mccourse/recipe/kaupen.json

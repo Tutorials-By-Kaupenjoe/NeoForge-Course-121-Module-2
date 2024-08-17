@@ -1,3 +1,5 @@
-// 1.21.1	2024-08-15T19:45:58.4558551	Tags for minecraft:item mod id mccourse
+// 1.21.1	2024-08-17T13:48:07.3389782	Tags for minecraft:item mod id mccourse
 40db16c0606aa9fca6ceba5b07b8a5b3e8f506f0 data/mccourse/tags/item/transformable_items.json
 3dce9288b1d7677353060dcab92e3b9b7cc74a53 data/minecraft/tags/item/trimmable_armor.json
+41ec2ff3fcaf253f2c3a20af63e12daaf2923ef8 data/minecraft/tags/item/trim_materials.json
+4604a2436b1811e8f84815fe50ec8cf9deaa453a data/minecraft/tags/item/trim_templates.json
